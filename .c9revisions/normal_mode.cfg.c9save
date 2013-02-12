@@ -1,0 +1,3 @@
+{"ts":1360658436107,"silentsave":true,"restoring":false,"patch":[[{"diffs":[[1,"bind tab +showscores\nhud_saytext_time 12\nhud_deathnotice_time 6\n"]],"start1":0,"start2":0,"length1":0,"length2":64}]],"length":64}
+{"contributors":[],"silentsave":false,"ts":1360658486798,"patch":[[{"diffs":[[0,"_time 6\n"],[1,"cl_notifications_show_ingame 0 \nhud_combattext 0\n"]],"start1":56,"start2":56,"length1":8,"length2":57}]],"length":113,"saved":false}
+{"ts":1360658542669,"patch":[[{"diffs":[[0,"ttext 0\n"],[1,"volume 0.03\n"]],"start1":105,"start2":105,"length1":8,"length2":20}]],"length":125,"saved":false}
